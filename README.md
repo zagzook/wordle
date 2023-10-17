@@ -1,0 +1,2 @@
+# wordle
+wordle on ZagzookGames
